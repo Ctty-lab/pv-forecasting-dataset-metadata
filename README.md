@@ -11,6 +11,8 @@ The Alice Springs file is a **site master-meter** series; the Yulara file is lab
 
 ## Official access
 
+The original datasets can be obtained from the DKA Solar Centre (https://dkasolarcentre.com.au/download) subject to its terms.
+
 - [DKASC Alice Springs data download](https://dkasolarcentre.com.au/download?location=alice-springs)
 - [Yulara Solar System data download](https://dkasolarcentre.com.au/download?location=yulara)
 - [DKA Solar Centre data glossary](https://dkasolarcentre.com.au/glossary)
